@@ -7,7 +7,7 @@ For a sentence to be valid, it must has number of things.
 
 1: First letter should be capital letter.
 
-2: The sentence must end with either (Full Stop, Comma or Exclamation Mark or Question Mark).
+2: The sentence must end with either (Full Stop, Comma, Exclamation Mark or Question Mark).
 
 3: The sentence must have even number of quotation marks. 
 
